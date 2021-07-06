@@ -1,5 +1,5 @@
 {
-  "namespace": "guru.learningjournal.examples.kafka.model",
+  "namespace": "com.example.ktableaggregate.model",
   "type": "record",
   "name": "Employee",
   "fields": [
